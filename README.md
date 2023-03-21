@@ -5,7 +5,7 @@ The CyberGIS-Compute workshop is a part of the [AAG 2023 Symposium on Harnessing
 ## Overview of the Workshop
 
 * Introduction to CyberGIS-Compute (Slides)
-* Using the CyberGIS-Compute SDK (Hands-On) - [Intro.ipynb](Intro.ipynb)
+* Using the CyberGIS-Compute SDK (Hands-On) - [CyberGISX](https://cybergisxhub.cigi.illinois.edu/), [This repo on CyberGISX](https://cybergisxhub.cigi.illinois.edu/notebook/cybergis-compute-workshop-aag-2023/)
 * CyberGIS-Compute Three Examples (Hands-On) - [Git Repo](https://github.com/cybergis/cybergis-compute-examples)
 * Wrap-Up/Next Steps
 * Q&A
